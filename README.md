@@ -19,4 +19,4 @@ Sendo assim, o código possui três funções, quais sejam: sacar, depositar e e
 ![App Screenshot](https://i.ibb.co/G7ZZZ2Z/desafio-bancario.png)
 
 ## Acesse o código
-[desafio_bancario01.py](https://github.com/rayanneri/desafio_bancario.py)
+[desafio_bancario01.py](https://github.com/rayanneri/desafio_bancario.py/blob/main/desafio%20bancario/desafio_bancario01.py)
